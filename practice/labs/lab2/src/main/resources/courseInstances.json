@@ -1,0 +1,22 @@
+[
+  {
+    "id": 100001,
+    "courseId": 10123,
+    "startDate": "2023-09-20",
+    "capacity": 30,
+    "instructorId": 9001
+  },
+  {
+    "id": 100002,
+    "courseId": 10123,
+    "startDate": "2024-02-20",
+    "instructorId": 9002
+  },
+  {
+    "id": 100003,
+    "courseId": 10234,
+    "startDate": "2023-10-01",
+    "capacity": 45,
+    "instructorId": 9003
+  }
+]
