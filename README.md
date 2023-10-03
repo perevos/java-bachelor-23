@@ -11,8 +11,8 @@
 | 05.09.23     | Введение                              | [pdf](lectures/lecture1/slides/lecture1.pdf) |
 | ~~12.09.23~~ | Занятие отменено                      |                                              |
 | ~~19.09.23~~ | Занятие отменено                      |                                              |
-| 26.09.23     | Базовые конструкции                   | [pdf](lectures/lecture1/slides/lecture2.pdf) |
-| 03.10.23     | ...                                   |                                              |
+| 26.09.23     | Базовые конструкции                   | [pdf](lectures/lecture2/slides/lecture2.pdf) |
+| 03.10.23     | ООП                                   | [pdf](lectures/lecture3/slides/lecture3.pdf) |
 | 10.10.23     | ...                                   |                                              |
 | 17.10.23     | ...                                   |                                              |
 | 24.10.23     | ...                                   |                                              |
