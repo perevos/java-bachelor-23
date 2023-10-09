@@ -13,7 +13,7 @@
 | ~~19.09.23~~ | Занятие отменено                      |                                              |
 | 26.09.23     | Базовые конструкции                   | [pdf](lectures/lecture2/slides/lecture2.pdf) |
 | 03.10.23     | ООП                                   | [pdf](lectures/lecture3/slides/lecture3.pdf) |
-| 10.10.23     | ...                                   |                                              |
+| 10.10.23     | Обработка ошибок и исключений         | [pdf](lectures/lecture4/slides/lecture4.pdf) |
 | 17.10.23     | ...                                   |                                              |
 | 24.10.23     | ...                                   |                                              |
 | 31.10.23     | ...                                   |                                              |
